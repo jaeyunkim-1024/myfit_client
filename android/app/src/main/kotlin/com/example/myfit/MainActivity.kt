@@ -1,4 +1,4 @@
-package com.example.myfit
+package com.disco.myfit
 
 import io.flutter.embedding.android.FlutterActivity
 

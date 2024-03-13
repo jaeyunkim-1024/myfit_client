@@ -5,6 +5,15 @@ class HomeView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text('로컬 서버에 사진 요청 필요');
+    return Column(
+      children:[
+        ElevatedButton(
+            onPressed: (){
+              
+            },
+            child: const Text('사진첩 열기')
+        )
+      ]
+    );
   }
 }
